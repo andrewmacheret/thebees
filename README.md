@@ -6,7 +6,7 @@ Goal: Place 8 bees within a 5-radius hexagon using the numerical clues provided.
 
 Rules:
  1. The number of the clue states how many bees are linearly aligned with the clue
-   - Two cells are linearly aligned if they are on the same line horizontally, diagonally left, or diagonally right, regardless of line of sight
+    * Two cells are linearly aligned if they are on the same line horizontally, diagonally left, or diagonally right, regardless of line of sight
  2. Bees cannot be on or adjacent to a clue, nor can they be on or adjacent to another bee.
  3. All bees are linearly aligned with at least one clue.
 
