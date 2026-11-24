@@ -1,5 +1,7 @@
 # thebees
 
+[![License](https://img.shields.io/badge/license-MIT-lightgray.svg)](https://github.com/andrewmacheret/thebees/blob/master/LICENSE.md)
+
 Solver for the "Honey Bunch" category of puzzle.
 
 Goal: Place 8 bees within a 5-radius hexagon using the numerical clues provided.
